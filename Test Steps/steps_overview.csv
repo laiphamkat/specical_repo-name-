@@ -1,0 +1,7 @@
+Flow ID,Test Steps,Flow Priority
+3,"step 1: Navigate to Page_category_chekhly-dlya-samsung
+step 2: Add visual checkpoint at Page_category_chekhly-dlya-samsung",High
+1,"step 1: Navigate to Page_home
+step 2: Add visual checkpoint at Page_home",Low
+2,"step 1: Navigate to Page_checkout_shipping-address
+step 2: Add visual checkpoint at Page_checkout_shipping-address",Trivial
